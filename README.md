@@ -1,10 +1,5 @@
----
-title: 'Noise-invariant Embedding with Triplet Centroid Autoencoder for Recognition of Japanese Corporate Seals'
-author: Binh P. Nguyen, Thanh M. Tran, Anh D. Le, Thai Q. Ha, Trung B. Nguyen, and Quang H. Nguyen
-output: html_document
----
-
-
+# Noise-invariant Embedding with Triplet Centroid Autoencoder for Recognition of Japanese Corporate Seals
+### Binh P. Nguyen, Thanh M. Tran, Anh D. Le, Thai Q. Ha, Trung B. Nguyen, and Quang H. Nguyen
 
 ## Background
 
